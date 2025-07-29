@@ -1,1 +1,3 @@
- git add git log git diff
+git add adiciona o arquivo para o comnii
+git log exibe o historico de commits para o git 
+git diff usado para mostrar a diferencas entre os arquivos 

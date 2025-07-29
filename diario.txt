@@ -1,0 +1,5 @@
+git status 
+echo " conteudo"  >>diario.txt
+git diff
+git add diario.txt
+git comit -m "conteudo "
